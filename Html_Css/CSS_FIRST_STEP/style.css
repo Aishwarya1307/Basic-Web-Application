@@ -1,0 +1,24 @@
+p{
+    color: aqua;
+}
+.para-sf{
+    color: blue;
+}
+
+#black-para{
+    color: blueviolet;
+}
+
+#divi{
+    color: yellowgreen;
+}
+
+.divr{
+    color: violet;
+    background-color: tomato;
+}
+
+div{
+    color: aqua;
+   font-size: large;
+}
