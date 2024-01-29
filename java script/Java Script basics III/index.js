@@ -46,6 +46,8 @@ console.log(numbers);
 numbers.length= 0
 numbers.splice(0,numbers.length)
 console.log(numbers);
+
+
 // find element from object type array
 cources = [
     {"id":2, "Naam":"Babbar"},
