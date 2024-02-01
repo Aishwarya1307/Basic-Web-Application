@@ -9,11 +9,11 @@
     <div class="container">
 
        <h1>Password Generator</h1> 
-        {% comment %} display input container for password {% endcomment %}
+        <!-- display input container for password -->
        <div class = "display-container">
         <input readonly placeholder= "password" class ="display" data-passwordDisplay>
 
-        <buttton>
+        <buttton data-copy>
             <span data-copyMsg></span>
             <img src="./assets/copy.png" alt="copy" width="23" height = "23">
         </buttton>
@@ -56,5 +56,6 @@
         </div>
 
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
